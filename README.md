@@ -2,7 +2,7 @@
 <p>Я фронтенд-разработчик. Я люблю, то что делаю и делаю это хорошо!</p>
 <hr>
 
-### <img style="width: 20px;height: 20px;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"> Социальные сети
+### <img style="width: 25px;height: 25px;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"> Социальные сети
 <div id="user-content-badges" dir="auto">
   <a href="https://www.linkedin.com/in/roman-hassazhyrov/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/c457924542427ab09c6897a501aa47b873e080ee92c167a256923fc2bd0e4c41/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" width="40" height="40" alt="linkedin" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" style="max-width: 100%;">
