@@ -1,13 +1,13 @@
 Мир!
 Меня зовут Роман!
 =============================================================================================================================
-Я фронтенд-разработчик. Я люблю, то что делаю и делаю это хорошо :-)
+Я фронтенд-разработчик. Я люблю, то что делаю и делаю это хорошо!
 ----------------------
 
 * 🌍  I'm based in Belarus
 * ✉️  You can contact me at [roman.khassazhirov@gmail.com](mailto:roman.khassazhirov@gmail.com)
 
-### Skills
+### Технологии:
 
 
 <p align="left">
@@ -15,10 +15,10 @@
 </p>
 
 
-### Socials
+### Социальные сети
 
 <p align="left"> <a href="https://www.github.com/RomanHass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/roman-khassazhirov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### GitHub статистика:
 
 <a href="https://github.com/RomanHass" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHass&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
