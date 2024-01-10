@@ -3,8 +3,6 @@
 Я фронтенд-разработчик. Я люблю, то что делаю и делаю это хорошо!
 ----------------------
 
-* 🌍  I'm based in Belarus
-* ✉️  You can contact me at [roman.khassazhirov@gmail.com](mailto:roman.khassazhirov@gmail.com)
 
 ### Технологии:
 
