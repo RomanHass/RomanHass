@@ -27,10 +27,11 @@
 </div>
 <hr>
 
-### <div style="column-gap: 10px;display: flex;align-items: center;">:computer:🛠️ Инструменты:
+### <div style="column-gap: 10px;display: flex;align-items: center;">🛠️ Инструменты:
   <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1cd8d6819cb6546d342ac8785c50f46f6f4ead9fe45f632f60a027f5b89842bd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65392f4e6f74696f6e2d6c6f676f2e737667"><img src="https://camo.githubusercontent.com/1cd8d6819cb6546d342ac8785c50f46f6f4ead9fe45f632f60a027f5b89842bd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65392f4e6f74696f6e2d6c6f676f2e737667" title="Notion" alt="Notion" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" style="max-width: 100%;"></a>
   </div>
 </div>
 <hr>
