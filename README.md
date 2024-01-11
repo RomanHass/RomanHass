@@ -12,6 +12,7 @@
   </a>
   </div>
 </div>
+<hr>
 
 ### <div style="column-gap: 10px;display: flex;align-items: center;">:computer: Технологии:
 <p align="left">
