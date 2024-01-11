@@ -27,7 +27,7 @@
 </div>
 <hr>
 
-### <div style="column-gap: 10px;display: flex;align-items: center;">:computer: Инструменты:
+### <div style="column-gap: 10px;display: flex;align-items: center;">:computer:🛠️ Инструменты:
   <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40" style="max-width: 100%;"></a>
