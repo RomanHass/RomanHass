@@ -37,4 +37,4 @@
 <hr>
 
 ### GitHub статистика:
-<a href="https://github.com/RomanHass" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHass&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/b60563f2609c131b71a7056b5b33015a48c2887d21049df0afec47d9636526a3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d666c6172676f696e266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=flargoin&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;"></a></p>
