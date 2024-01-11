@@ -23,8 +23,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original.svg" title="Webpack" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <hr>
 
