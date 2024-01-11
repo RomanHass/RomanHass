@@ -1,7 +1,8 @@
 <h1>Мир, меня зовут Роман!</h1>
 <p>Я фронтенд-разработчик. Я люблю, то что делаю и делаю это хорошо!</p>
 <hr>
-<img style="vertical-align: middle" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif style="max-width: 100%" />
+
+![image](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)
 
 
 ### <div style="column-gap: 10px;display: flex;align-items: center;">🤝 Социальные сети:
