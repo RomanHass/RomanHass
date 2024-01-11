@@ -2,7 +2,7 @@
 <p>Я фронтенд-разработчик. Я люблю, то что делаю и делаю это хорошо!</p>
 <hr>
 
-<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500" height="300">
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500" height="300" style="display: block; margin: auto;">
 
 
 ### <div style="column-gap: 10px;display: flex;align-items: center;">🤝 Социальные сети:
