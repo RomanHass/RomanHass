@@ -19,13 +19,22 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original.svg" title="Webpack" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <hr>
 
+### <div style="column-gap: 10px;display: flex;align-items: center;">:computer: Инструменты:
+  <div dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40" style="max-width: 100%;"></a>
+  </div>
+</div>
+<hr>
 
 ### GitHub статистика:
 <a href="https://github.com/RomanHass" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanHass&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
