@@ -37,6 +37,6 @@
 <hr>
 
 ### GitHub статистика:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanhass&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanhass&layout=compact&theme=vision-friendly-dark)
 
 
