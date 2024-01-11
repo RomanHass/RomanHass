@@ -3,13 +3,15 @@
 <hr>
 
 ### <div style="column-gap: 10px">
-  <img style="width: 25px;height: 25px;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"><span style="display: inline-block;" >Социальные сети:</span>
-  <a href="https://www.linkedin.com/in/roman-hassazhyrov/" style="display: inline-block;">
+  <img style="width: 25px;height: 25px;vertical-align: middle;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"><span style="display: inline-block;">Социальные сети:</span>
+  <div>
+    <a href="https://www.linkedin.com/in/roman-hassazhyrov/" style="display: inline-block;">
     <img style="vertical-align: middle" src="https://camo.githubusercontent.com/c457924542427ab09c6897a501aa47b873e080ee92c167a256923fc2bd0e4c41/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" alt="linkedIn" width="40" height="40" />
   </a>
   <a href="https://t.me/RomanKhassazhirov" style="display: inline-block;">
     <img style="vertical-align: middle" src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" alt="Telegram" width="40" height="40" />
   </a>
+  </div>
 </div>
 
 ### <div style="display: flex"><img style="vertical-align: middle" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> <span>Технологии:</span></div>
