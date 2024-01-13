@@ -5,7 +5,6 @@
   <li>:office: Работал как в веб-студии, так и в международной аутсорсинговой компании</li>
   <li>:rocket: В данный момент развиваюсь в направлении React и создаю пет-проекты как хобби :)</li>
 </ul>
-<hr>
 <div align="center" dir="auto">
   <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500" height="300">
 </div>
