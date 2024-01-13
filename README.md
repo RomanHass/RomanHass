@@ -1,5 +1,5 @@
 <h1>Мир, меня зовут Роман!</h1>
-<p>Я фронтенд-разработчик. Я люблю, то что делаю и делаю это хорошо!</p>
+<p>Я фронтенд-разработчик <img src="https://www.gifki.org/data/media/641/smayl-rabota-animatsionnaya-kartinka-0036.gif" width="55" height="58"></p>
 <hr>
 <div align="center" dir="auto">
   <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500" height="300">
