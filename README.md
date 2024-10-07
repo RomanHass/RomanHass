@@ -3,7 +3,7 @@
 <p>Я frontend-разработчик <img src="https://www.gifki.org/data/media/641/smayl-rabota-animatsionnaya-kartinka-0023.gif" width="48" height="45" style="vertical-align: middle;"></p>
 <ul>
   <li>:office: Работал как в веб-студии, так и в международных аутсорсинговых компаниях</li>
-  <li>:rocket: В данный момент развиваюсь в направлении React и создаю пет-проекты как хобби :)</li>
+  <li>:rocket: В данный момент оттачиваю навыки как frontend-разработчик и создаю пет-проекты как хобби :)</li>
 </ul>
 <div align="center" dir="auto">
   <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500" height="300">
