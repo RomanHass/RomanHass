@@ -2,7 +2,7 @@
 <p>Обо мне:</p>
 <p>Я frontend-разработчик <img src="https://www.gifki.org/data/media/641/smayl-rabota-animatsionnaya-kartinka-0023.gif" width="48" height="45" style="vertical-align: middle;"></p>
 <ul>
-  <li>:office: Работал как в веб-студии, так и в международных аутсорсинговых компаниях</li>
+  <li>:office: Работал международных аутсорсинговых компаниях, а также в веб-студии</li>
   <li>:rocket: В данный момент оттачиваю навыки как frontend-разработчик и создаю пет-проекты как хобби :)</li>
 </ul>
 <div align="center" dir="auto">
